@@ -70,10 +70,13 @@ choix mutuels.
 
 ## Nice guys finish first  [^2]
 ___
-![[1.jpeg]]
+![Image 1](1.jpeg)
+
 **Nice, Provocative, Forgiving.**[^3]
 Ce sont les trois adjectifs qui définissent la stratégie **Tit for Tat (soit Donnant Donnant)** soumises par Anatol Rapoport - psychologue travaillant principalement sur la résolution de conflit et la paix - au tournoi organisé par Robert Axelrod en 1979[^4]. Ce tournoi a fait jouer entre elles différentes stratégies soumises par des professeurs d’université de domaine divers, dans des dilemmes du prisonnier itérés. La stratégie qui remporte à deux reprises ces tournois est l’une des plus simples : **Tit for Tat**.
-![[2.png]] [^5]
+
+![Image 2](2.png) [^5]
+
 Les résultats de ces tournois nous enseignent les leçons suivantes :
 - Il est essentiel d’être **gentil** (_Nice_). En effet, commencer par coopérer, sans chercher à manipuler ou à tromper l'autre joueur, est la meilleure manière d'optimiser son score à long terme. Lors du premier tournoi, toutes les stratégies coopératives – représentées en vert dans le tableau ci-dessus – ont surpassé les stratégies malhonnêtes. Ce constat a incité Richard Dawkins à ajouter un chapitre à son ouvrage _The Selfish Gene_, offrant une justification logique à la coopération dans la nature.
 - Il est crucial d’être **provocable** (_Provocative_). Une bonne stratégie ne doit pas tolérer l’exploitation : répondre immédiatement à une défection par une réciproque à la prochaine interaction permet de dissuader les comportements opportunistes et de protéger ses intérêts.
@@ -107,7 +110,8 @@ Grâce à cette approche **réciproque et adaptative**, **Tit for Tat**. Elle **
 ___
 
 Les récents sondages montrent un certain regret parmi les Britanniques, dont une partie souhaiterait aujourd’hui se rapprocher davantage de l’UE que des États-Unis. Cependant, si vous poseriez cette question à votre entourage, une réponse fréquente pourrait être un **"Non" catégorique**, justifié par des arguments économiques, historiques ou simplement par une réaction d’orgueil politique. Ce refus instinctif peut être interprété comme l’application de stratégies punitives issues du dilemme du prisonnier itéré.
-![[3.png]]
+
+![Image 3](3.png)
 [^7]
 Dans cette situation, on peut modéliser le jeu entre l’UE (Joueur 1) et le Royaume-Uni (Joueur 2) en utilisant les stratégies classiques de la théorie des jeux après une défection initiale :
 
@@ -154,7 +158,7 @@ Cette confrontation évoque un **jeu à somme nulle** :  
 
 Goodfellow a ainsi montré que cette logique compétitive pouvait faire progresser simultanément les deux modèles : en s’adaptant l’un à l’autre, ils finissent par atteindre un équilibre où le générateur produit des échantillons quasiment indiscernables des données réelles.
 
-![[4.png]]
+![Image 4](4.png)
 
 ### Une application directe de la théorie des jeux
 ___
